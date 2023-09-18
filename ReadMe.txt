@@ -1,6 +1,6 @@
 ﻿## CV Challenge 
 # Group 31: ‘Subject to Change’
-Ragshanan Ragunathan, Lukas Schmid, Noor Ali, Rami Alkafahje, Osman Aksu
+Rami Alkafahje, Ragshanan Ragunathan, Lukas Schmid, Noor Ali, Osman Aksu
 
 
 # Short Description of project
